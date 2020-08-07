@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+#php_menu{
+	margin-top: -16px;
+}
+#php_main #php_content{
+	margin: auto;
+	margin-top: 50px;
+	width: 100%;
+}
+#php_main #php_content #detail_pr_left{
+	float:left;
+	margin-left: 100px;
+}
+#php_main #php_content #detail_pr_left img{
+	width: 300px;
+	height: 300px;
+}
+#detail_add_product{
+	clear: left;
+}

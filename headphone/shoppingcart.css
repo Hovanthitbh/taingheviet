@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#php_main{
+	margin: auto;
+	width: 1024px;
+}
+#php_content table {
+	border-collapse: collapse;
+	width: 1024px;
+}
+#php_content table tbody tr td{
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+}
+#php_content table tbody tr td img{
+	width: 100px;
+	height: 100px;
+}
